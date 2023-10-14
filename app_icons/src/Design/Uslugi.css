@@ -1,0 +1,75 @@
+div.main-box div.header-content {
+    border-bottom: 1px solid pink;
+    
+    
+}
+div.main-box div.main-content {
+    width: 90%;
+}
+ div.zagalovok  {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5%;
+    
+}
+div.main-content div.section1-content {
+    display: flex;
+}
+div.section1-content {
+    width: 100%;
+    
+}
+div.about-massage {
+    width: 65%;
+}
+div.prices {
+    width: 30%;
+    margin-left: 5%;
+}
+div.box-header {
+    margin-bottom: 7%;
+}
+div.section1-content {
+   display: flex;
+   flex-direction: column;
+   
+}
+div.not-img {
+    display: flex;
+}
+div.img-yes {
+    margin: 0 auto;
+    width: 90%;
+    height: 50%;
+    
+    
+    
+}
+div.img-yes img {
+    margin: 0 auto;
+    width: 850px;
+    height: 550px;
+}
+div.not-img {
+    margin: 0 auto;
+    margin-top: 5%;
+}
+div.about-massage-zagolovok {
+    margin-bottom: 3%;
+    
+}
+div.prices-zagolovok {
+    margin-bottom: 5%;
+}
+div.about-massage-content {
+    text-align: center;
+    margin-bottom: 3%;
+}
+div.prices {
+    text-align: center;
+    
+}
+div.section1-content {
+    margin-bottom: 5%;
+}
+
